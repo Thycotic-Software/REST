@@ -4,4 +4,4 @@ This repository holds scripts customers have created using our REST web services
 
 We will regularly review any PRs that you make.
 
-Please use these scripts are your own risk
+Please use these scripts at your own risk
